@@ -57,10 +57,35 @@ o View output in the Console window.
 o After finishing, click File > Exit to close Eclipse IDE.
 
 ## PROGRAM:
+```
+public class mithun {
+    public static void main(String[] args) {
+        int[] numbers = {12, 45, 23, 56, 89, 34, 67, 90, 11, 22}; 
+        System.out.print("Even Numbers: ");
+        for (int num : numbers) {
+            if (num % 2 == 0) {
+                System.out.print(num + " ");
+            }
+        }
 
+        System.out.println(); // For a new line
+
+        System.out.print("Odd Numbers: ");
+        for (int num : numbers) {
+            if (num % 2 != 0) {
+                System.out.print(num + " ");
+            }
+        }
+    }
+}
+
+```
 ## OUTPUT:
 
 
+<img width="1919" height="1070" alt="Screenshot 2025-09-02 154758" src="https://github.com/user-attachments/assets/18e72f3a-78ed-4035-8eee-443f9fee9169" />
 
 
 ## RESULT:
+Thus the program to find the the odd or even number using java is developed and the output is verified
+
